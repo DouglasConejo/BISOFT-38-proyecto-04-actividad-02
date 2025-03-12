@@ -35,6 +35,3 @@ fun App() {
         }
     }
 }
-//Coment pull
-// coment 2 prueba
-// cpoment prueba 3
