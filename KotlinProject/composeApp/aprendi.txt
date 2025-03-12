@@ -1,0 +1,7 @@
+1️ Escapado en Kotlin: Cuando estuve trabajando con expresiones regulares dentro de una cadena de texto en Kotlin, me di cuenta de que tenía que usar doble barra invertida (\) para escapar los caracteres especiales. Al principio fue algo confuso, pero al entenderlo mejor, todo empezó a tener más sentido.
+
+2️ Diferencia entre . y . en regex: Mientras investigaba, entendí que el punto (.) en las expresiones regulares representa cualquier carácter. Pero cuando necesitaba un punto literal, como un "punto real", tuve que usar \. en Kotlin para que fuera interpretado correctamente.
+
+3️ Errores de compilación como lecciones: Al encontrarme con errores de compilación, me di cuenta de que no solo son frustrantes, sino que también son una gran oportunidad de aprendizaje. Este error en particular me enseñó a manejar mejor las expresiones regulares y cómo Kotlin interpreta los caracteres de escape dentro de las cadenas.
+
+4️ Depuración y resolución de errores: Al trabajar en la depuración, aprendí que cuando veo errores como el "Illegal escape", debo revisar si estoy usando cadenas con caracteres especiales. Kotlin tiene reglas muy específicas sobre cómo deben escribirse esas cadenas.
